@@ -57,3 +57,6 @@ print(s.size())
 ```
 
 *ActiveCode 2*
+
+另外一种是实现栈的方法：
+http://zhaochj.github.io/2016/05/14/2016-05-14-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E6%A0%88/
